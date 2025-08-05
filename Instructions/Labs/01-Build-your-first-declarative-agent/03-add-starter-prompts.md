@@ -33,16 +33,16 @@ En Copilot Studio:
 Vamos a publicar el agente actualizado en Microsoft 365 Copilot.
 
 1. Selecciona **Publicar** en la parte superior derecha de la página de información general del agente en Copilot Studio.
-2. En la ventana modal que se abre, selecciona **Publicar**.
-3. En la ventana **Opciones de disponibilidad** que se abre, selecciona **Copiar** en el encabezado **Compartir vínculo**.
-4. En otra pestaña del explorador web, selecciona **Pegar** para pegar el vínculo compartido del agente y selecciona **Entrar**. Aparece una ventana que describe el agente de **soporte técnico del producto**.
-5. Selecciona **Actualizar ahora** en el nombre del agente para publicar los cambios en el agente de soporte técnico del producto. Espera unos instantes mientras se actualiza el agente.
-6. Una vez completada la actualización, cierra la ventana modal. Si no se te dirige a Microsoft 365 Copilot en el explorador, selecciona **Copilot** en el menú izquierdo o en el menú **Aplicaciones** del portal de Microsoft 365.
+1. En la ventana modal que se abre, selecciona **Publicar**.
+1. En la ventana **Opciones de disponibilidad** que se abre, selecciona **Copiar** en el encabezado **Compartir vínculo**.
+1. En otra pestaña del explorador web, selecciona **Pegar** para pegar el vínculo compartido del agente y selecciona **Entrar**. Aparece una ventana que describe el agente de **soporte técnico del producto**.
+1. Selecciona **Actualizar ahora** en el nombre del agente para publicar los cambios en el agente de soporte técnico del producto. Espera unos instantes mientras se actualiza el agente.
+1. Una vez completada la actualización, cierra la ventana modal. Si no se te dirige a Microsoft 365 Copilot en el explorador, selecciona **Copilot** en el menú izquierdo o en el menú **Aplicaciones** del portal de Microsoft 365.
 
 ## Prueba el agente en Microsoft 365 Copilot
 
 1. En **Microsoft 365 Copilot**, selecciona el icono de la parte superior derecha para **expandir el panel lateral de Copilot**.
-2. Busca **Soporte técnico del producto** en la lista de agentes y selecciónalo para entrar en la experiencia inmersiva para chatear directamente con el agente. Presta atención a las indicaciones de inicio definidas en la pantalla de Copilot Studio en la interfaz de usuario.
+1. Busca **Soporte técnico del producto** en la lista de agentes y selecciónalo para entrar en la experiencia inmersiva para chatear directamente con el agente. Presta atención a las indicaciones de inicio definidas en la pantalla de Copilot Studio en la interfaz de usuario.
 
     ![Captura de pantalla de Microsoft 365 Copilot en Microsoft Edge en la que se muestran las indicaciones de inicio del agente de soporte técnico del producto.](../Media/product-support-starter-prompts.png)
-3. **Selecciona** una indicación de inicio y revisa la respuesta.
+1. **Selecciona** una indicación de inicio y revisa la respuesta.

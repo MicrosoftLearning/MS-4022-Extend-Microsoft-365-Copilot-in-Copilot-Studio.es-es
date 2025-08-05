@@ -108,7 +108,7 @@ A continuación, publica el agente declarativo en Microsoft 365 Copilot. En la p
 
 A continuación, vamos a ejecutar el agente declarativo en Microsoft 365 Copilot y validar su funcionalidad tanto en la experiencia **en contexto** como en la experiencia **envolvente**.
 
-Siguiendo los pasos anteriores, actualmente estás en la experiencia **envolvente** del agente. Observa en el panel **Agentes** a la derecha que el **soporte técnico del producto** está seleccionado como agente con el que estás chateando directamente.
+Siguiendo los pasos anteriores, actualmente estás en la experiencia **envolvente** del agente. Observe que, en el panel **Agentes** situado junto a la interfaz de chat, **Soporte técnico del producto** está seleccionado como el agente con el que chatea directamente.
 
 ![Captura de pantalla de la experiencia envolvente del agente de soporte técnico del producto en Microsoft 365 Copilot.](../Media/product-support-immersive.png)
 
@@ -117,7 +117,7 @@ Siguiendo los pasos anteriores, actualmente estás en la experiencia **envolvent
 
 Seguimos en el explorador, donde probaremos la experiencia **en contexto**.
 
-1. Encima del panel **Agentes** a la derecha de la ventana de chat, selecciona **Copilot** para salir del chat envolvente con el agente de **soporte técnico del producto** y chatear con Microsoft 365 Copilot.
+1. Encima del panel **Agentes** de la barra lateral, seleccione **Chat** o **M365 Copilot** para salir del chat envolvente con el agente **Soporte técnico del producto** y chatear con Microsoft 365 Copilot.
 
     ![Captura de pantalla del botón Copilot en la barra lateral de Microsoft 365 Copilot.](../Media/select-copilot.png)
 

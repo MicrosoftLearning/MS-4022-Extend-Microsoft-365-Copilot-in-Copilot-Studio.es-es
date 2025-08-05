@@ -70,15 +70,19 @@ Agrega la dirección URL de SharePoint al agente como origen de conocimientos de
 
 ### Agregar dirección URL de SharePoint
 
-1. En la página de información general del agente de soporte técnico del producto de Copilot Studio, selecciona **Agregar conocimientos** en la sección **Conocimientos**.
+1. En un explorador web, ve a [Microsoft Copilot Studio](https://copilotstudio.microsoft.com/) en `https://copilotstudio.microsoft.com`.
+1. Seleccione **Agentes**.
+1. Seleccione **Copilot para Microsoft 365**.
+1. Seleccione el agente **Soporte técnico del producto**.
+1. En la sección **Conocimientos** de la página de información general del agente, seleccione **Agregar conocimientos**.
 
     ![Captura de pantalla de Copilot Studio en Microsoft Edge en la que se resalta el botón Agregar conocimientos para el agente de soporte técnico del producto.](../Media/product-support-add-knowledge.png)
 
-2. En la página **Agregar conocimientos** del asistente que se abre, selecciona **SharePoint**.
-3. En el cuadro de texto, pega la dirección URL de la biblioteca **Products** de SharePoint y selecciona **Agregar**. Debe tener el formato: `https://DOMAIN.sharepoint.com/sites/ProductSupport/Products`
+1. En la página **Agregar conocimientos** del asistente que se abre, selecciona **SharePoint**.
+1. En el cuadro de texto, pega la dirección URL de la biblioteca **Products** de SharePoint y selecciona **Agregar**. Debe tener el formato: `https://DOMAIN.sharepoint.com/sites/ProductSupport/Products`
 
-4. Selecciona **Agregar** en la ventana **Agregar SharePoint** y espera a que el origen de conocimientos se agregue al agente. Esto puede tardar un par de minutos.
-5. Observa que la biblioteca **Products** aparece en la sección **Conocimientos** de la información general del agente.
+1. Selecciona **Agregar** en la ventana **Agregar SharePoint** y espera a que el origen de conocimientos se agregue al agente. Esto puede tardar un par de minutos.
+1. Observa que la biblioteca **Products** aparece en la sección **Conocimientos** de la información general del agente.
 
 > **Nota**: los agentes de Copilot Studio acceden a documentos en nombre del usuario. El agente solo podrá obtener respuestas y contenido de los documentos a los que tienen acceso los usuarios finales.
 
